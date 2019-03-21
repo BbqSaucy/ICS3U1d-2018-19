@@ -6,6 +6,9 @@ You and your date are trying to get a table at a restaurant. The parameter "you"
 
 ```python
 def date_fashion(you, date):
+    if you >= 8 or date >= 8:
+
+
 ```
 
 
